@@ -52,7 +52,7 @@
 - https://manjaro.site/how-to-enable-full-screen-mode-on-ubuntu-19-10-on-vmware-workstation-15-5/
 - 
 # Mysql
-- https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04
+- https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04 or https://docs.vultr.com/how-to-install-mysql-on-ubuntu-24-04
 - https://codingsight.com/top-5-mysql-create-table-syntax-for-t-sql-developers
 - https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql
 
